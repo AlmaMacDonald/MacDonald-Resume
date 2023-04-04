@@ -1,15 +1,16 @@
 ---
-layout: resume
+layout: cv
 title: Alma MacDonald's Resume
 ---
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
-
 
 ## Education
 
@@ -54,7 +55,6 @@ __Operations Management Intern__, San Diego, CA
 
 -	Proficient in Word, Excel, PowerPoint, Outlook, Power BI, Tableau, SQL, Python, and SharePoint.
 -	Performed different supply chain analysis for multiple small companies and non-profits organizations.
-
 
 
 <!-- ### Footer
