@@ -1,9 +1,7 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Alma MacDonald's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,69 +13,47 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`January 2020 - April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+Bachelor of Business Management Operations
+- Certificate in Accounting
+-	Certificate in Business Administration
+-	Certificate in Business Analytics
+-	Certificate in Data Analysis
+-	Certificate in Data Science
 
 ## Related Experience
 
+`July 2022 - Sept. 2022`
+__Program Assistant__, Rexburg, ID
+
+- Organize and execute events for thousands of people every 3 months as well 
+as smaller events on a weekly basis.
+- Handle all finances and paperwork for department and its lead including weekly
+ and monthly reports.
+- Head interrelations with other departments and groups.
+
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2022 - Sept. 2022`
+__Operations Management Intern__, Mokopone, South Africa
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Updated and created new policies for the company.
+-	Created and logged their inventory system for their main distribution center
+and farm.
+-	Assisted in marketing and promotional videos for their internship outreach.
 
-### Data Science Lead
+`July 2021 - Sept. 2021`
+__Operations Management Intern__, San Diego, CA
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Collaborated with various department heads to improve workflows.
+- Supported Facilities, Lab Ops, Management, and Shipping and Receiving.
+- Assisted in Program Management, Sourcing, and Purchasing.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Service and Skills
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+-	Proficient in Word, Excel, PowerPoint, Outlook, Power BI, Tableau, SQL, Python, and SharePoint.
+-	Performed different supply chain analysis for multiple small companies and non-profits organizations.
 
 
 
