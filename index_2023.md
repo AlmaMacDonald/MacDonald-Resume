@@ -3,6 +3,8 @@ layout: resume
 title: Alma MacDonald's Resume
 ---
 
+# Alma MacDonald
+
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
